@@ -6,11 +6,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import com.alibaba.dubbo.config.annotation.Service;
 import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
-import com.hcnay.mapper.TbTypeTemplateMapper;
-import com.hcnay.pojo.TbTypeTemplate;
-import com.hcnay.pojo.TbTypeTemplateExample;
-import com.hcnay.pojo.TbTypeTemplateExample.Criteria;
-import com.hcnay.sellergoods.service.TypeTemplateService;
+import com.pinyougou.mapper.TbTypeTemplateMapper;
+import com.pinyougou.pojo.TbTypeTemplate;
+import com.pinyougou.pojo.TbTypeTemplateExample;
+import com.pinyougou.pojo.TbTypeTemplateExample.Criteria;
+import com.pinyougou.sellergoods.service.TypeTemplateService;
 
 import entity.PageResult;
 
