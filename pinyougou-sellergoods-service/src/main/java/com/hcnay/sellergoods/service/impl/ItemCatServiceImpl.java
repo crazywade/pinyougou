@@ -4,11 +4,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import com.alibaba.dubbo.config.annotation.Service;
 import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
-import com.pinyougou.mapper.TbItemCatMapper;
-import com.pinyougou.pojo.TbItemCat;
-import com.pinyougou.pojo.TbItemCatExample;
-import com.pinyougou.pojo.TbItemCatExample.Criteria;
-import com.pinyougou.sellergoods.service.ItemCatService;
+import com.hcnay.mapper.TbItemCatMapper;
+import com.hcnay.pojo.TbItemCat;
+import com.hcnay.pojo.TbItemCatExample;
+import com.hcnay.pojo.TbItemCatExample.Criteria;
+import com.hcnay.sellergoods.service.ItemCatService;
 
 import entity.PageResult;
 
