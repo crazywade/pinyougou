@@ -100,7 +100,7 @@ public class BrandController {
 		}
 	}
 	
-		/**
+	/**
 	 * 查询+分页
 	 * @param brand
 	 * @param page
