@@ -16,7 +16,8 @@ public interface GoodsService {
 	 */
 	public List<TbGoods> findAll();
 	
-	
+
+
 	/**
 	 * 返回分页列表
 	 * @return
